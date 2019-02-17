@@ -1,7 +1,5 @@
 111
-777
-555
-666
 888
 999
 from eclipse
+from local
